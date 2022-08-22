@@ -5,17 +5,21 @@ from wechatpy.client.api import WeChatMessage, WeChatTemplate
 import requests
 import os
 import random
-
+#今天
 today = datetime.now()
 start_date = '2021-12-18'
+#城市
 city = '湖南，长沙'
+#生日
 birthday = '10-15'
-
-app_id = os.environ["APP_ID"]
-app_secret = os.environ["APP_SECRET"]
-
-user_id = os.environ["USER_ID"]
-template_id = os.environ["TEMPLATE_ID"]
+#测试id
+app_id = wx7dfaf23bf50f856a
+#测试号
+app_secret = wx7dfaf23bf50f856a
+#用户id
+user_id = wx7dfaf23bf50f856a
+#模板id
+template_id = lhBohu5Fzn2XxiBtrWLm6c2T-9xq-nO2VI6Frz55mR8
 
 
 def get_weather():
