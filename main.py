@@ -15,7 +15,7 @@ birthday = '10-15'
 #测试id
 app_id = wx7dfaf23bf50f856a
 #测试号
-app_secret = wx7dfaf23bf50f856a
+app_secret = e78c98db264b957ce9c62f5b4d0af947
 #用户id
 user_id = wx7dfaf23bf50f856a
 #模板id
