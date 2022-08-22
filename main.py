@@ -13,13 +13,13 @@ city = '湖南，长沙'
 #生日
 birthday = '10-15'
 #测试id
-app_id = wx7dfaf23bf50f856a
+app_id = 'wx7dfaf23bf50f856a'
 #测试号
-app_secret = e78c98db264b957ce9c62f5b4d0af947
+app_secret = 'e78c98db264b957ce9c62f5b4d0af947'
 #用户id
-user_id = wx7dfaf23bf50f856a
+user_id = 'wx7dfaf23bf50f856a'
 #模板id
-template_id = lhBohu5Fzn2XxiBtrWLm6c2T-9xq-nO2VI6Frz55mR8
+template_id = 'lhBohu5Fzn2XxiBtrWLm6c2T-9xq-nO2VI6Frz55mR8'
 
 
 def get_weather():
